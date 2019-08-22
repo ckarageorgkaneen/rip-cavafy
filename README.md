@@ -1,4 +1,4 @@
-# rip_cavafy
+# rip-cavafy
 
 Extract embedded .mp3 poem recordings from http://www.kavafis.org/
 
@@ -7,5 +7,5 @@ within [Θάλασσα του Πρωιού](http://www.kavafis.org/lections/cont
 
 Usage:
 ```shell
-./rip_cavafy.sh download_dir
+./rip-cavafy.sh your_download_dir
 ```
